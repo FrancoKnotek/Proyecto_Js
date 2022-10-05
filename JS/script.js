@@ -19,3 +19,5 @@ function Suma(Numero1, Numero2) {
 const result = Suma(Numero1, Numero2);
 console.log(result);
 // #endregion
+// #region array
+const temperatura = Array(5).fill(5);

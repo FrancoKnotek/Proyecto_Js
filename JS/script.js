@@ -12,3 +12,7 @@ console.log(Nombre3);
 var Numero1 = 9;
 var Numero2 = 6;
 // #endregion
+// #region function
+function Suma(Numero1, Numero2) {
+    return Numero1 + Numero2;
+}

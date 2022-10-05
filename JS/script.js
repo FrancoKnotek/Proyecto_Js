@@ -21,3 +21,9 @@ console.log(result);
 // #endregion
 // #region array
 const temperatura = Array(5).fill(5);
+console.log(temperatura[0]);
+console.log(temperatura[1]);
+console.log(temperatura[2]);
+console.log(temperatura[3]);
+console.log(temperatura[4]);
+// #endregion

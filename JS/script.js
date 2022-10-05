@@ -8,3 +8,7 @@ console.log(Nombre1);
 console.log(Nombre2);
 console.log(Nombre3);
 // #endregion
+// #region Variables2
+var Numero1 = 9;
+var Numero2 = 6;
+// #endregion

@@ -17,3 +17,5 @@ function Suma(Numero1, Numero2) {
     return Numero1 + Numero2;
 }
 const result = Suma(Numero1, Numero2);
+console.log(result);
+// #endregion

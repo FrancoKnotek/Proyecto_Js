@@ -16,3 +16,4 @@ var Numero2 = 6;
 function Suma(Numero1, Numero2) {
     return Numero1 + Numero2;
 }
+const result = Suma(Numero1, Numero2);
